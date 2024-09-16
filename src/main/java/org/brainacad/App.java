@@ -1,4 +1,4 @@
-package brainacad-org;
+package org.brainacad;
 
 /**
  * Hello world!
